@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera App</string>
+    <string name="open_gallery">Open gallery</string>
+    <string name="record_video">Record video</string>
+    <string name="take_photo">Take photo</string>
+    <string name="switch_camera">Switch camera</string>
+</resources>
